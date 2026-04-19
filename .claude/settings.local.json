@@ -1,0 +1,15 @@
+{
+  "enabledMcpjsonServers": [
+    "context7",
+    "blockscout",
+    "coingecko",
+    "digest",
+    "recall",
+    "autoresearch",
+    "watchdog",
+    "prepper",
+    "sentinel",
+    "patchbot",
+    "datadog"
+  ]
+}
