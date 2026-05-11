@@ -94,6 +94,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Covalent](https://www.covalenthq.com/) - Historical datasets, Covalent Unified API: [goldrush API](https://goldrush.dev/).
 - [Moralis](https://moralis.io/) - Web3 development platform with comprehensive data APIs for various blockchains.
 - [Space and Time](https://spaceandtime.io/) - Decentralized data warehouse with ZK-based Proof-of-SQL for verifiable queries.
+- [Web3 Discover Data](https://github.com/SolvoHQ/web3-discover-data) - CC0 dataset of 42 currently-claimable web3 airdrops (chain, cost-floor, risk flag, deadline, "last verified" date), refreshed daily via GitHub Actions. JSON API mirror at https://web3-discover.vercel.app/api/airdrops.
 
 ## ETL Tools
 
