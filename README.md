@@ -62,6 +62,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 
 ### Market Intelligence & Analysis
 
+- [BaseLens](https://github.com/YoungAlgy/baselens) - Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402 (a few cents in USDC). Built with Coinbase's CDP SDK and Anthropic's API.
 - [CryptoPanic](https://cryptopanic.com/) - News aggregator with real-time updates, sentiment analysis, and market impact tracking.
 - [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking and user activity metrics.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence for digital assets.
