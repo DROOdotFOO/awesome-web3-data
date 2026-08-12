@@ -74,6 +74,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Rekt News](https://rekt.news/) - Analysis and reports on DeFi hacks, scams, and exploits.
 - [RWA.xyz](https://rwa.xyz/) - Data platform for tokenized real-world assets, stablecoins, and on-chain treasuries.
 - [Sentora](https://sentora.com/) - Crypto analytics platform with ML-driven signals.
+- [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID via public RPC and alerts on Telegram on new on-chain activity.
 
 ## Blockchain Oracles
 
