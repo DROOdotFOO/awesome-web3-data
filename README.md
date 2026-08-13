@@ -22,6 +22,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [SDKs and Libraries](#sdks-and-libraries)
 
 ## Analytics & Visualization Tools
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on Telegram on new transactions, no external database.
 
 ### Block Explorers
 
