@@ -40,6 +40,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 ### Dashboards & Portfolio Trackers
 
 - [DeBank](https://debank.com/) - Multi-chain portfolio tracker with DeFi analytics and protocol breakdowns.
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - [Dune Analytics](https://dune.com/) - Community-powered crypto analytics with SQL queries and dashboards.
 - [Pharos](https://pharos.watch/) - Stablecoin analytics dashboard tracking supply, peg stability, liquidity, reserves, yield, and risk signals.
 - [Rotki](https://rotki.com/) - Privacy-preserving, open-source portfolio tracker and analytics tool.
