@@ -121,6 +121,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 ## Infrastructure
 
 - [Censorship.pics](https://censorship.pics/) - ETH censorship dashboard showing statistics for Builders, Relays, and Validators.
+- [Chain.Love](https://www.chain.love/) - Open-source directory for discovering and comparing Web3 infrastructure providers across multiple networks.
 - [Checkpoint Sync Endpoints](https://eth-clients.github.io/checkpoint-sync-endpoints/) - Collection of checkpoint sync endpoints for ETH clients.
 - [Client Diversity](https://clientdiversity.org/) - Initiative to promote diversity among ETH clients.
 - [ETH Nodes](https://ethereumnodes.com/) - Comprehensive list of ETH nodes for developers and researchers.
