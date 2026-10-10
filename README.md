@@ -92,6 +92,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 ## Data Providers
 
 - [Covalent](https://www.covalenthq.com/) - Historical datasets, Covalent Unified API: [goldrush API](https://goldrush.dev/).
+- [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API with REST and WebSocket access to fills, positions, liquidations and L2/L4 order books, plus a free historical archive (Reservoir).
 - [Moralis](https://moralis.io/) - Web3 development platform with comprehensive data APIs for various blockchains.
 - [Sharpe](https://www.sharpe.ai/docs/api-reference) - Crypto market data API for funding rates, futures, options, arbitrage, narratives, ecosystems, news, and exchange listings.
 - [Space and Time](https://spaceandtime.io/) - Decentralized data warehouse with ZK-based Proof-of-SQL for verifiable queries.
