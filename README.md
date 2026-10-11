@@ -63,6 +63,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 
 ### Market Intelligence & Analysis
 
+- [ClearTrace](https://cleartracedata.com/) - Free DEX execution-quality benchmarks (slippage, revert rates, MEV sandwich exposure) and volume attribution across Ethereum, Base, Arbitrum, Optimism, with keyless API and open dataset.
 - [CryptoPanic](https://cryptopanic.com/) - News aggregator with real-time updates, sentiment analysis, and market impact tracking.
 - [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking and user activity metrics.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence for digital assets.
