@@ -164,6 +164,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Infura](https://infura.io/) - ETH and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting various blockchains.
 - [LYFTIUM](https://www.lyftium.com/) - Ethereum Mainnet JSON-RPC priced in requests per minute (rpm), not compute units. Fail-closed tip gate (HTTP 503 when sync gate closed).
+- [MoltNode by Chord](https://moltnode.ag/) - Keyless public JSON-RPC gateway for 31 chains (ETH, Base, Arbitrum, Solana, Monad and more) with one URL per chain, plus a hosted MCP endpoint for AI agents.
 - [OnFinality](https://onfinality.io/) - Blockchain infrastructure platform providing reliable multichain RPC APIs, dedicated nodes, indexing services, staking and validator infrastructure, and network prototyping tools across 130+ blockchain networks.
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
 - [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks.
