@@ -91,6 +91,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 
 ## Data Providers
 
+- [Chord](https://getchord.xyz/docs/) - DEX swap index and API for 7 EVM chains and Solana with token boards, candles, trades, wallet PnL, smart money, holders and LP pools, also served over a hosted MCP server.
 - [Covalent](https://www.covalenthq.com/) - Historical datasets, Covalent Unified API: [goldrush API](https://goldrush.dev/).
 - [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API with REST and WebSocket access to fills, positions, liquidations and L2/L4 order books, plus a free historical archive (Reservoir).
 - [Moralis](https://moralis.io/) - Web3 development platform with comprehensive data APIs for various blockchains.
