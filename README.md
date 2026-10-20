@@ -43,6 +43,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Dune Analytics](https://dune.com/) - Community-powered crypto analytics with SQL queries and dashboards.
 - [Pharos](https://pharos.watch/) - Stablecoin analytics dashboard tracking supply, peg stability, liquidity, reserves, yield, and risk signals.
 - [Rotki](https://rotki.com/) - Privacy-preserving, open-source portfolio tracker and analytics tool.
+- [TrueHold](https://www.truehold.xyz/) - Multi-chain portfolio tracker that reads wallets by public address, exchanges via read-only API keys, and Hyperliquid and Lighter perp positions.
 - [Zapper](https://zapper.xyz/) - Multi-chain dashboard for DeFi portfolio management and yield farming optimization.
 - [Zerion](https://zerion.io/) - DeFi portfolio manager with real-time analytics and cross-chain insights.
 
