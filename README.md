@@ -75,6 +75,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Rekt News](https://rekt.news/) - Analysis and reports on DeFi hacks, scams, and exploits.
 - [RWA.xyz](https://rwa.xyz/) - Data platform for tokenized real-world assets, stablecoins, and on-chain treasuries.
 - [Sentora](https://sentora.com/) - Crypto analytics platform with ML-driven signals.
+- [TokenSonar](https://tokensonar.com/data/) - Institutional adoption scores (0-100) for cryptocurrencies from spot-ETF assets, institutional partners, news and on-chain real-world-asset value, with a free JSON dataset.
 
 ## Blockchain Oracles
 
