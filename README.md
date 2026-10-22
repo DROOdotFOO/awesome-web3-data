@@ -54,6 +54,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Cielo Finance](https://cielo.finance/) - On-chain activity tracker and breakout wallet discovery.
 - [CoinVerum](https://coinverum.com/) - ETH mainnet DEX analytics for on-chain prices, liquidity, volume, trades, and active addresses.
 - [DefiLlama](https://defillama.com/) - Open DeFi TVL aggregator with customizable charts, metrics, and protocol comparisons.
+- [DefiLPKit](https://defilpkit.com/) - Read-only LP calculator for fee APR and net yield after impermanent loss across Uniswap v3, PancakeSwap v3, Aerodrome Slipstream, and Raydium CLMM pools.
 - [ETH Gas Tracker](https://www.ethgastracker.com/network/mainnet) - Real-time ETH gas prices and historical analytics.
 - [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics on Snowflake SQL with multi-chain support.
 - [Formo](https://formo.so/) - Product and onchain analytics for Web3 apps, including funnels, retention, revenue, and wallet profiles, with a read-only MCP interface.
