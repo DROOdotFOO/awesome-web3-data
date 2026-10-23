@@ -35,7 +35,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [mempool.space](https://mempool.space/) - Open-source Bitcoin mempool visualizer and block explorer with REST and WebSocket APIs.
 - [Mintscan](https://mintscan.io) - Cosmos ecosystem explorer.
 - [PolygonScan](https://polygonscan.com/) - Polygon block explorer.
-- [SIM Explorer](https://explorer.sim.io/) - Block explorer for ETH / Base with advanced features.
 
 ### Dashboards & Portfolio Trackers
 
@@ -55,9 +54,8 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [CoinVerum](https://coinverum.com/) - ETH mainnet DEX analytics for on-chain prices, liquidity, volume, trades, and active addresses.
 - [DefiLlama](https://defillama.com/) - Open DeFi TVL aggregator with customizable charts, metrics, and protocol comparisons.
 - [ETH Gas Tracker](https://www.ethgastracker.com/network/mainnet) - Real-time ETH gas prices and historical analytics.
-- [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics on Snowflake SQL with multi-chain support.
 - [Formo](https://formo.so/) - Product and onchain analytics for Web3 apps, including funnels, retention, revenue, and wallet profiles, with a read-only MCP interface.
-- [L2BEAT](https://l2beat.com/scaling/summary) - ETH L2 analytics and risk assessments for rollups and bridges.
+- [L2BEAT](https://l2beat.com/layer2s/summary) - ETH L2 analytics and risk assessments for rollups and bridges.
 - [Map of Zones](https://mapofzones.com/home) - Analytics platform for the Cosmos ecosystem.
 - [Token Terminal](https://tokenterminal.com/) - Financial metrics and charts for crypto protocols and applications.
 
@@ -122,7 +120,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 
 ## Infrastructure
 
-- [Censorship.pics](https://censorship.pics/) - ETH censorship dashboard showing statistics for Builders, Relays, and Validators.
 - [Chain.Love](https://www.chain.love/) - Open-source directory for discovering and comparing Web3 infrastructure providers across multiple networks.
 - [Checkpoint Sync Endpoints](https://eth-clients.github.io/checkpoint-sync-endpoints/) - Collection of checkpoint sync endpoints for ETH clients.
 - [Client Diversity](https://clientdiversity.org/) - Initiative to promote diversity among ETH clients.
@@ -148,7 +145,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 ## NFT Data Providers
 
 - [Alchemy NFT API](https://www.alchemy.com/nft-api) - NFT data API, features ownership verification and metadata enrichment.
-- [Constellations](http://book.constellations.zone/) - High-performance and real-time Cosmos indexer with APIs for NFT data and collection analytics.
 - [Moralis NFT API](https://moralis.io/api/nft/) - NFT data API, advanced features rarity scores and transfer alerts.
 - [OpenSea API](https://docs.opensea.io/reference/api-overview) - NFT data API, including sales, listings, and metadata.
 - [Rarify](https://rarifylabs.com/) - NFT infrastructure and data API.
@@ -163,7 +159,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Helius](https://www.helius.dev/) - Solana RPC & API platform providing comprehensive infrastructure, NFT APIs and transaction APIs.
 - [Infura](https://infura.io/) - ETH and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting various blockchains.
-- [LYFTIUM](https://www.lyftium.com/) - Ethereum Mainnet JSON-RPC priced in requests per minute (rpm), not compute units. Fail-closed tip gate (HTTP 503 when sync gate closed).
 - [OnFinality](https://onfinality.io/) - Blockchain infrastructure platform providing reliable multichain RPC APIs, dedicated nodes, indexing services, staking and validator infrastructure, and network prototyping tools across 130+ blockchain networks.
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
 - [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks.
