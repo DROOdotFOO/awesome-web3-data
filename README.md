@@ -151,7 +151,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Constellations](http://book.constellations.zone/) - High-performance and real-time Cosmos indexer with APIs for NFT data and collection analytics.
 - [Moralis NFT API](https://moralis.io/api/nft/) - NFT data API, advanced features rarity scores and transfer alerts.
 - [OpenSea API](https://docs.opensea.io/reference/api-overview) - NFT data API, including sales, listings, and metadata.
-- [PunkPrice](https://punkprice.com/data?utm_source=awesome-web3-data) - Daily CryptoPunks floor in ETH since 2017, replayed from the marketplace contract, with free CSV, JSON and API downloads (CC BY 4.0).
+- [PunkPrice](https://punkprice.com/data) - Daily CryptoPunks floor in ETH since 2017, replayed from the marketplace contract, with free CSV, JSON and API downloads (CC BY 4.0).
 - [Rarify](https://rarifylabs.com/) - NFT infrastructure and data API.
 
 ## RPC Providers
