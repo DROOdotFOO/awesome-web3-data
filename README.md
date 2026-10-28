@@ -135,7 +135,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [NodeWatch](https://nodewatch.io/) - Monitoring tool for ETH nodes, providing real-time data and alerts.
 - [Rollup.wtf](https://rollup.wtf/) - Realtime data for Rollups and Blobs.
 - [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - Charts for deploying different infrastructure components on Kubernetes.
-- [Timing.pics](https://timing.pics/) - ETH timing dashboard showing timing games and their effect on the consensus layer.
 
 ### Load Balancers
 
