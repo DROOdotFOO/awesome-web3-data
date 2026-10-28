@@ -150,6 +150,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Alchemy NFT API](https://www.alchemy.com/nft-api) - NFT data API, features ownership verification and metadata enrichment.
 - [Moralis NFT API](https://moralis.io/api/nft/) - NFT data API, advanced features rarity scores and transfer alerts.
 - [OpenSea API](https://docs.opensea.io/reference/api-overview) - NFT data API, including sales, listings, and metadata.
+- [PunkPrice](https://punkprice.com/data) - Daily CryptoPunks floor in ETH since 2017, replayed from the marketplace contract, with free CSV, JSON and API downloads (CC BY 4.0).
 - [Rarify](https://rarifylabs.com/) - NFT infrastructure and data API.
 
 ## RPC Providers
