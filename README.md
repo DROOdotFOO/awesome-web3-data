@@ -92,6 +92,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 ## Data Providers
 
 - [BlockVectra](https://docs.blockvectra.com/en/api/data/) - Indexed EVM data API for transactions and ERC-20 transfers, with a TypeScript SDK.
+- [Chord](https://getchord.xyz/docs/build/) - Swap-level DEX trade index for eight EVM chains (Ethereum, Base, Arbitrum, BNB Chain, Avalanche, Monad, Arc, Robinhood Chain) and 11 Solana venues, with a free REST API (no key required) for trades, candles, token stats and wallet PnL, plus holders and LP positions on some chains, and a public WebSocket for live trades.
 - [Covalent](https://www.covalenthq.com/) - Historical datasets, Covalent Unified API: [goldrush API](https://goldrush.dev/).
 - [Femtos](https://femtos.xyz/) - Hyperliquid data API for HyperCore, HyperEVM and Elysium over REST, WebSocket, a Hyperliquid-compatible endpoint and a hosted MCP server.
 - [Hydromancer](https://hydromancer.xyz/) - Hyperliquid data API with REST and WebSocket access to fills, positions, liquidations and L2/L4 order books, plus a free historical archive (Reservoir).
