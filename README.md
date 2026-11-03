@@ -54,6 +54,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Cielo Finance](https://cielo.finance/) - On-chain activity tracker and breakout wallet discovery.
 - [CoinVerum](https://coinverum.com/) - ETH mainnet DEX analytics for on-chain prices, liquidity, volume, trades, and active addresses.
 - [DefiLlama](https://defillama.com/) - Open DeFi TVL aggregator with customizable charts, metrics, and protocol comparisons.
+- [Energy Rent Hub](https://www.energyrenthub.com/) - TRON energy rental price comparison that ranks providers by on-chain success rate, response speed, and real trade price.
 - [ETH Gas Tracker](https://www.ethgastracker.com/network/mainnet) - Real-time ETH gas prices and historical analytics.
 - [Formo](https://formo.so/) - Product and onchain analytics for Web3 apps, including funnels, retention, revenue, and wallet profiles, with a read-only MCP interface.
 - [L2BEAT](https://l2beat.com/layer2s/summary) - ETH L2 analytics and risk assessments for rollups and bridges.
