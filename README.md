@@ -67,6 +67,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking and user activity metrics.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence for digital assets.
 - [GMGN](https://gmgn.ai/about) - Meme-coin discovery platform. Also, check out [the bots](https://docs.gmgn.ai/index).
+- [Kumocast Research](https://www.kumocast.io/research/hyperliquid-vs-binance-funding-rates) - Study comparing Hyperliquid and Binance perpetual funding rates for 20 coins, with downloadable CSV data under CC BY 4.0.
 - [LlamaRisk](https://portal.llamarisk.com/) - DeFi risk management platform with dashboards.
 - [Messari](https://messari.io/) - Market intelligence with research, metrics, and visualization tools.
 - [Nansen](https://www.nansen.ai/) - Blockchain analytics with wallet labels and insights.
