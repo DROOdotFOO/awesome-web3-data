@@ -35,6 +35,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [mempool.space](https://mempool.space/) - Open-source Bitcoin mempool visualizer and block explorer with REST and WebSocket APIs.
 - [Mintscan](https://mintscan.io) - Cosmos ecosystem explorer.
 - [PolygonScan](https://polygonscan.com/) - Polygon block explorer.
+- [XRPL.to](https://xrpl.to/) - XRP Ledger token explorer: prices, holders, DEX and AMM trades, NFTs and accounts, with a free REST and WebSocket API.
 
 ### Dashboards & Portfolio Trackers
 
