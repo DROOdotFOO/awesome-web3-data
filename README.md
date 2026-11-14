@@ -155,6 +155,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [OpenSea API](https://docs.opensea.io/reference/api-overview) - NFT data API, including sales, listings, and metadata.
 - [PunkPrice](https://punkprice.com/data) - Daily CryptoPunks floor in ETH since 2017, replayed from the marketplace contract, with free CSV, JSON and API downloads (CC BY 4.0).
 - [Rarify](https://rarifylabs.com/) - NFT infrastructure and data API.
+- [TG Gifts](https://tggifts.com/api) - Floor prices and value estimates for Telegram collectible gifts and usernames on TON, from public Fragment data; daily floor files are free under CC BY 4.0.
 
 ## RPC Providers
 
