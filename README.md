@@ -91,6 +91,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 
 ## Data Providers
 
+- [Bitculator](https://bitculator.com/en/crypto-api) - Crypto market data API with prices, OHLCV history, indicators and the Fear & Greed index, over REST and MCP.
 - [BlockVectra](https://docs.blockvectra.com/en/api/data/) - Indexed EVM data API for transactions and ERC-20 transfers, with a TypeScript SDK.
 - [Covalent](https://www.covalenthq.com/) - Historical datasets, Covalent Unified API: [goldrush API](https://goldrush.dev/).
 - [Femtos](https://femtos.xyz/) - Hyperliquid data API for HyperCore, HyperEVM and Elysium over REST, WebSocket, a Hyperliquid-compatible endpoint and a hosted MCP server.
