@@ -170,6 +170,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [OrbitFlare](https://orbitflare.com/) - Solana RPC with Yellowstone gRPC, Jetstream and Shredstream streaming, plus BNB Chain, Polygon and Robinhood Chain RPC; free tier available.
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
 - [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks.
+- [SolidRPC](https://solidrpc.io/) - Managed EVM JSON-RPC service with archive data, tracing, and automatic failover behind one endpoint.
 - [Triton One](https://triton.one/) - High-performance RPC solutions for Solana, Sui, and other blockchains with dedicated infrastructure.
 
 ## SDKs and Libraries
