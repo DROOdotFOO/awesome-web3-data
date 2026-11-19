@@ -187,6 +187,10 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [web3.js](https://web3js.readthedocs.io/) - ETH JavaScript API for interacting with ETH nodes.
 - [web3.py](https://web3py.readthedocs.io/) - Python library for interacting with ETH, suitable for data analysis.
 
+## Books and learning
+
+- [Blockchain Data Engineering Guide](https://unchaindata.xyz/blockchain-data-engineering-guide) - A paid 140-page guide to blockchain data engineering, with 23 hands-on labs covering indexing, pipelines, storage, and modeling on EVM and Solana.
+
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
