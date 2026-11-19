@@ -65,6 +65,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [ClearTrace](https://cleartracedata.com/) - Free DEX execution-quality benchmarks (slippage, revert rates, MEV sandwich exposure) and volume attribution across ETH, Base, Arbitrum, and Optimism, with a keyless API and open dataset.
 - [CryptoPanic](https://cryptopanic.com/) - News aggregator with real-time updates, sentiment analysis, and market impact tracking.
 - [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking and user activity metrics.
+- [FreezeRadar](https://freezeradar.com/) - Free USDT, USDC, and PAXG wallet blacklist and sanctions checker covering ETH, Tron, BSC, and Polygon.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence for digital assets.
 - [GMGN](https://gmgn.ai/about) - Meme-coin discovery platform. Also, check out [the bots](https://docs.gmgn.ai/index).
 - [LlamaRisk](https://portal.llamarisk.com/) - DeFi risk management platform with dashboards.
