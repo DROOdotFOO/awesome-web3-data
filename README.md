@@ -31,6 +31,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Blockchair](https://blockchair.com/) - Multi-chain explorer supporting Bitcoin, ETH, and 40+ blockchains with advanced search and filtering.
 - [Blockscout](https://blockscout.com/) - Open-source blockchain explorer for ETH and EVM-based networks.
 - [BscScan](https://bscscan.com/) - Binance Smart Chain block explorer.
+- [checktxid](https://checktxid.com/) - Plain-English status for any transaction ID on 50+ networks (auto-detects the chain), plus a free JSON API.
 - [Etherscan](https://etherscan.io/) - ETH block explorer and analytics platform.
 - [mempool.space](https://mempool.space/) - Open-source Bitcoin mempool visualizer and block explorer with REST and WebSocket APIs.
 - [Mintscan](https://mintscan.io) - Cosmos ecosystem explorer.
