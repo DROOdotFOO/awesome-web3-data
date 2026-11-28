@@ -117,6 +117,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [goteth](https://github.com/migalabs/goteth) - ETH indexer written in Go, designed for scalability.
 - [Indexed](https://www.indexed.xyz/) - Public, decoded crypto datasets. Updated every 10 mins.
 - [Kong](https://github.com/yearn/kong) - Real-time and historical EVM indexer.
+- [nuthatch](https://github.com/nuthatch-org/nuthatch) - Self-hosted EVM indexer that turns a contract's event history into local SQL, served over HTTP and MCP.
 - [Ponder](https://ponder.sh) - End-to-end type safe EVM indexer based on Viem.
 - [Reth Indexer](https://github.com/joshstevens19/reth-indexer) - Indexer which reads directly from the reth database.
 - [rindexer](https://rindexer.xyz/) - High-performance ETH indexer written in Rust.
