@@ -180,6 +180,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Foundry](https://book.getfoundry.sh/) - Modern EVM smart contract development toolchain via CLI and Solidity scripts.
 - [Hardhat](https://hardhat.org/) - ETH development environment for professionals.
 - [Multiproof](https://github.com/stakewise/multiproof) - Python library for generating Merkle trees and proofs, fully compatible with OpenZeppelin contracts.
+- [Siebly Hyperliquid SDK](https://github.com/sieblyio/hyperliquid-api) - Open-source TypeScript SDK for the Hyperliquid API, with REST and WebSocket clients for candles, funding history, order books, fills and account state.
 - [Tenderly](https://tenderly.co/) - Smart contract debugging, simulation, and real-time monitoring with transaction tracing.
 - [thirdweb](https://thirdweb.com/) - Full-stack Web3 SDK with prebuilt contracts, wallet infrastructure, and frontend SDKs.
 - [Viem](https://github.com/wevm/viem) - Modern modular TypeScript interface for ETH.
